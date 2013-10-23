@@ -10,3 +10,9 @@ int API2() {
   // fetch data 2...
   return data;
 }
+
+int API3() {
+  int *data;
+  // fetch data 3...
+  return data;
+}
